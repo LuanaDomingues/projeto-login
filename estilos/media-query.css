@@ -6,7 +6,7 @@
     }
 
     section#login {
-        width: 80%;
+        width: 650px;
         height: 280px;
     }
 
@@ -22,7 +22,7 @@
     }
 
     div.campo > input {
-        width: 412px;
+        width: 386px;
     }
 }
 
